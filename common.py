@@ -1,5 +1,6 @@
-# LMS config #
-`/edx/app/edxapp/edx-platform/lms/envs/`
+## Main LMS config
+## File can be found here:
+## /edx/app/edxapp/edx-platform/lms/envs/ 
 
 # -*- coding: utf-8 -*-
 """
