@@ -1,3 +1,6 @@
+# LMS config #
+`/edx/app/edxapp/edx-platform/lms/envs/`
+
 # -*- coding: utf-8 -*-
 """
 This is the common settings file, intended to set sane defaults. If you have a
